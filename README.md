@@ -11,4 +11,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-23-Agustos-2021-)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-23-Agustos-2021-/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-23-Agustos-2021-/blob/main/sss.md)
-+ [Kursa Kayıt](https://zoom.us/meeting/register/tJEsduGhrz0jEtBH5x8Z6CmIL-wnxoO4gPqO)
++ [Kursa Kayıt](https://us06web.zoom.us/meeting/register/tZUlf-CgqTwiG9C7UxdQwMnSZrJsVuGFfSJu)
