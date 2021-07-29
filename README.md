@@ -4,7 +4,7 @@
 + Kurs __13 Eylül 2021 Pazartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Aykut TAŞDELEN__'dir.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __160__ saattir. Dersler __Pazartesi - Çarşamba - Cuma__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __162__ saattir. Dersler __Pazartesi - Çarşamba - Cuma__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
 + Kursun toplam ücreti 3.900 TL KDV dahil 'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) 3.600 TL KDV dahil'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
