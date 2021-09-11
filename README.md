@@ -1,7 +1,7 @@
 # CSharp ile Nesne Yönelimli Programlama
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __13 Eylül 2021 Pazartesi__ günü başlayacaktır.
++ Kurs __11 Ekim 2021 Pazartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Aykut TAŞDELEN__'dir.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __162__ saattir. Dersler __Pazartesi - Çarşamba - Cuma__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
